@@ -1,0 +1,4 @@
+[{<<"db_etcd">>,
+  {git,"https://github.com/joq62/db_etcd.git",
+       {ref,"4e4d6379a8428f2e4f5c846aa9c684e7bc2612c7"}},
+  0}].
